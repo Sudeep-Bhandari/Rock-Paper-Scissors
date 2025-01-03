@@ -37,4 +37,18 @@ A classic Rock Paper Scissors game implemented using HTML, CSS, and JavaScript. 
 - CSS: For styling and layout.
 - JavaScript: For game logic and interactivity.
 
+Contributing
+Contributions are welcome! Here's how you can contribute:
+1. Fork this repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-branch-name
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Description of changes"
+4. Push to the branch:
+   ```bash
+   git push origin feature-branch-name
+5. Open a pull request.
+
 
