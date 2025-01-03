@@ -51,4 +51,11 @@ Contributions are welcome! Here's how you can contribute:
    git push origin feature-branch-name
 5. Open a pull request.
 
+## License
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/). See the LICENSE file for details.
 
+## Contact
+For any questions or suggestions, please contact:
+
+- Your Name: sudeepbhandari6124@gmail.com
+- GitHub: @Sudeep-Bhandari
