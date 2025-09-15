@@ -8,8 +8,8 @@ A classic Rock Paper Scissors game implemented using HTML, CSS, and JavaScript. 
 - Dynamic gameplay with randomized computer choices.
 - Simple and intuitive controls.
 
-## Demo
-[Live Demo](http://127.0.0.1:5500/33.Rock-Paper-Scissors%20Game/Rock%20Paper%20Scissors/index.html)
+## Live Demo
+[Live Demo](https://sudeep-bhandari.github.io/Rock-Paper-Scissors/)
 
 ## Installation
 
